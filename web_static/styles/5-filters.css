@@ -1,0 +1,32 @@
+.filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  border: 1px solid #DDDDDD;
+  border-radius: 4px;
+  margin-top: 30px;
+}
+
+.locations {
+  width: 25%;
+  height: 100%;
+  display: inline-block;
+  border-right: 1px solid #DDDDDD;
+}
+
+.locations h3, .amenities h3 {
+  font-weight: 600;
+}
+
+.locations h4, .amenities h4 {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.amenities {
+  width: 25%;
+  height: 100%;
+  display: inline-block;
+}
