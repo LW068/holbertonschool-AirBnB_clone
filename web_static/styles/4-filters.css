@@ -29,6 +29,8 @@
     font-size: 18px;
     opacity: 1;
     transition: opacity 0.5s;
+    margin-right: 30px;
+    margin-left: auto;
 }
 
 .filters button:hover {
